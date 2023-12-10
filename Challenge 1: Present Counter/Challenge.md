@@ -1,5 +1,4 @@
-# 
-Challenge 1: Present Counter
+# Challenge 1: Present Counter
 
 **Objective:**
 Participants are tasked with creating a program to help Santa count the number of presents he needs to deliver. Given a list of different types of gifts, participants should write a program that counts the quantity of each type of gift and provides a total count.
